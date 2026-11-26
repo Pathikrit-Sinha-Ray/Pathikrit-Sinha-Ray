@@ -16,6 +16,6 @@ B.Tech CSE (AI & ML) student at IEM Kolkata (2029).<br><br>Currently learning C,
 ![](https://github-profile-trophy.vercel.app/?username=Pathikrit-Sinha-Ray&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pathikrit-Sinha-Ray&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
